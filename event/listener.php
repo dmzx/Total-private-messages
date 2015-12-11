@@ -9,9 +9,6 @@
 
 namespace dmzx\totalpms\event;
 
-/**
-* @ignore
-*/
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
 /**

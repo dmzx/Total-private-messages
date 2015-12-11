@@ -1,5 +1,7 @@
 # Total private messages Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Total-private-messages.svg?branch=master)](https://travis-ci.org/dmzx/Total-private-messages)
+
 ## Install
 
 1. Download the latest release.
